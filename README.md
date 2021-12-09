@@ -1,6 +1,6 @@
 ### Hi there, I'm Patricio Ríos Tapia 👋
 
-I'm a Software Developer base in Gran Canaria. After having lived in the north of Europe for 4 years I'm currently searching for a job in Spain.
+I'm a Software Developer base in Gran Canaria. After having lived in the north of Europe for 4 years, I'm currently searching for a job in Spain.
 I am a tech enthusiast, In my spare time I love riding my motorcycle and playing with electronics.
 
 - 🌱 I’m currently learning React with Redux and how to build my own custom guitar pedals
