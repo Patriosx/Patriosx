@@ -3,7 +3,7 @@
 I'm a Software Developer base in Gran Canaria. After having lived in the north of Europe for 4 years, I'm currently searching for a job in Spain.
 I am a tech enthusiast, In my spare time I love riding my motorcycle and playing with electronics.
 
-- 🌱 I’m currently learning React with Redux and how to build my own custom guitar pedals
+- 🌱 I’m currently learning how to build my own custom guitar pedals
 - 👯 I’m looking to collaborate on any open source projects
 - 🤔 I’m looking for help with Job search in Spain
 - 💬 Ask me about anything that call your attention here!
