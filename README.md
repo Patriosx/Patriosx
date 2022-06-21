@@ -1,6 +1,6 @@
 ### Hi there, I'm Patricio Ríos Tapia 👋
 
-I'm a Software Developer base in Gran Canaria. After having lived in the north of Europe for 4 years, I moved to Gran Canaria where I'm currently working as fullstack developer.
+I'm a Software Developer based in Gran Canaria. After having lived in the north of Europe for 4 years, I moved to the Canaries where I'm currently working as a fullstack developer.
 I am a tech enthusiast, In my spare time I love riding my motorcycle and playing with electronics.
 
 - 🌱 I’m currently learning how to build my own custom guitar pedals
