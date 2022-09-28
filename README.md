@@ -1,11 +1,14 @@
 ### Hi there, I'm Patricio Ríos Tapia 👋
 
-I'm a Software Developer based in Gran Canaria. After having lived in the north of Europe for 4 years, I moved to the Canaries where I'm currently working as a fullstack developer.
+I'm a Software Developer based in Gran Canaria. I lived in the Netherlands for a year and a half and due to the covid situation I had to return to Spain. I moved to the Canaries where I'm currently working as a fullstack developer.
+
+Now that everything is back to normal I am planning to return to the Netherlands for a second chance 💪.
+
 I am a tech enthusiast, In my spare time I love riding my motorcycle and playing with electronics.
 
 - 🌱 I’m currently learning how to build my own custom guitar pedals
 - 👯 I’m looking to collaborate on any open source projects
-- 🤔 I’m looking for help with Job search in Spain
+- 🤔 I’m looking for help with Job search in the Netherlands
 - 💬 Ask me about anything that call your attention here!
 - 📫 How to reach me: [LinkedIn](http://bit.ly/patricio-rt), [email me](mailto:patriosweb@gmail.com)
 - 😄 Pronouns: He/his
