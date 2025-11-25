@@ -2,7 +2,7 @@
 
 ### 💡 SAP Developer por trabajo, Fullstack Developer por pasión.
 
-[cite_start]Actualmente estoy basado en la hermosa **Gran Canaria**, teletrabajando como **SAP ABAP & BTP Developer**[cite: 12, 13]. Mi foco profesional es construir soluciones cloud-native robustas dentro del ecosistema SAP, pero mi verdadera pasión tecnológica se centra en el desarrollo **Fullstack** y la **electrónica**.
+Actualmente estoy basado en la hermosa **Gran Canaria**, teletrabajando como **SAP ABAP & BTP Developer**. Mi foco profesional es construir soluciones cloud-native robustas dentro del ecosistema SAP, pero mi verdadera pasión tecnológica se centra en el desarrollo **Fullstack** y la **electrónica**.
 
 ---
 
@@ -12,9 +12,9 @@ Este espacio está dedicado a mis proyectos e ideas fuera del ecosistema SAP. Aq
 
 | Categoría | Tecnologías Principales | Estado Actual |
 | :--- | :--- | :--- |
-| **Frontend** | [cite_start]**React.js**, Next.js [cite: 17, 57] | Profundizando en *performance* y TDD. |
-| **Backend** | [cite_start]**Node.js**, Express [cite: 17, 57] | Explorando Go y arquitectura *Serverless*. |
-| **Base de Datos** | [cite_start]MongoDB, GraphQL [cite: 58] | Usando Drizzle ORM en proyectos recientes. |
+| **Frontend** | **React.js**, Next.js | Profundizando en *performance* y TDD. |
+| **Backend** | **Node.js**, Express | Explorando Go y arquitectura *Serverless*. |
+| **Base de Datos** | MongoDB, GraphQL | Usando Drizzle ORM en proyectos recientes. |
 
 ### Proyecto Actual Destacado
 
@@ -26,9 +26,9 @@ Este espacio está dedicado a mis proyectos e ideas fuera del ecosistema SAP. Aq
 
 Aunque este perfil se centra en proyectos personales, mi base profesional es sólida y se centra en el desarrollo de aplicaciones empresariales.
 
-* [cite_start]**Rol Principal:** SAP ABAP & BTP Developer (S/4HANA & ABAP Cloud)[cite: 12, 15].
-* [cite_start]**Certificaciones:** Certificado en **ABAP Cloud** y el **SAP Cloud Application Programming Model** (CAP)[cite: 16].
-* [cite_start]**Habilidades Clave:** Desarrollo de servicios web (SOAP, OData), SAP Fiori/SAPUI5 y optimización de rendimiento de *back-end*[cite: 6, 7, 50, 30, 28].
+* **Rol Principal:** SAP ABAP & BTP Developer (S/4HANA & ABAP Cloud).
+* **Certificaciones:** Certificado en **ABAP Cloud** y el **SAP Cloud Application Programming Model** (CAP).
+* **Habilidades Clave:** Desarrollo de servicios web (SOAP, OData), SAP Fiori/SAPUI5 y optimización de rendimiento de *back-end*.
 
 ---
 
@@ -37,15 +37,15 @@ Aunque este perfil se centra en proyectos personales, mi base profesional es só
 * **Busco Colaborar:** En proyectos Open Source que usen mi stack personal (React/Node/Next.js) o que involucren electrónica.
 * **Pregúntame sobre:** Cómo aplicar prácticas de desarrollo moderno (testing, CI/CD) a proyectos SAP, o sobre la electrónica de pedales de guitarra 🎸.
 * **Pronombres:** He/His.
-* [cite_start]**¡Dato Curioso!** Mi experiencia como Fullstack Developer (React/Node) me da una visión más amplia que aplico en mis proyectos personales e iniciativas de innovación[cite: 17].
+* **¡Dato Curioso!** Mi experiencia como Fullstack Developer (React/Node) me da una visión más amplia que aplico en mis proyectos personales e iniciativas de innovación.
 
 ### 📬 ¿Cómo contactarme?
 
-* [cite_start]**LinkedIn:** Patricio Ríos Tapia [cite: 4]
-* [cite_start]**Email:** riostapia.patricio@gmail.com [cite: 2, 3]
+* **LinkedIn:** Patricio Ríos Tapia
+* **Email:** riostapia.patricio@gmail.com
 * **GitHub:** Puedes ver mis repositorios aquí mismo 😉
 
-<strong>Tech stack: </strong>
+**Tech stack: **
 <br>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -61,6 +61,6 @@ Aunque este perfil se centra en proyectos personales, mi base profesional es só
 <br>
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+![Figma](https://img.shields.ios/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
