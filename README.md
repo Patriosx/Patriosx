@@ -18,7 +18,7 @@ Este espacio está dedicado a mis proyectos e ideas fuera del ecosistema SAP. Aq
 
 ### Proyecto Actual Destacado
 
-🌱 Estoy activamente desarrollando [**Nombre de tu proyecto actual más emocionante**]. Es una [Describe brevemente, e.g., aplicación de gestión de inventario, herramienta de visualización de datos] construida con [Tecnologías principales del proyecto, e.g., Next.js y tRPC].
+🌱 Estoy activamente desarrollando un **Sistema Híbrido de Gestión de Tareas Operacionales**. Este es un proyecto **Fullstack** que integra el desarrollo empresarial y móvil. El **front-end móvil** se construye con **Mobile Development Kit (MDK)**, utilizando **TypeScript** para crear una experiencia nativa en **Android** (con capacidades *offline*) dentro del ecosistema **SAP BTP**. El *back-end* empresarial se centra en la lógica de negocio en **ABAP** para conectar y gestionar los datos transaccionales.
 
 ---
 
