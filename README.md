@@ -41,7 +41,7 @@ Aunque este perfil se centra en proyectos personales, mi base profesional es só
 
 ### 📬 ¿Cómo contactarme?
 
-* **LinkedIn:** Patricio Ríos Tapia
+* **LinkedIn:** [Patricio Ríos Tapia](https://www.linkedin.com/in/patricio-r%C3%ADos-tapia-7015b5204/)
 * **Email:** riostapia.patricio@gmail.com
 * **GitHub:** Puedes ver mis repositorios aquí mismo 😉
 
@@ -61,6 +61,6 @@ Aunque este perfil se centra en proyectos personales, mi base profesional es só
 <br>
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Figma](https://img.shields.ios/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
