@@ -1,19 +1,49 @@
-### Hi there, I'm Patricio Ríos Tapia 👋
+# Hi there, I'm Patricio Ríos Tapia 👋
 
-I'm a Software Developer based in Gran Canaria. I lived in the Netherlands for a year and a half and due to the covid situation I had to return to Spain. I moved to the Canaries where I'm currently working as a fullstack developer.
+### 💡 SAP Developer por trabajo, Fullstack Developer por pasión.
 
-Now that everything is back to normal I am planning to return to the Netherlands for a second chance 💪.
+[cite_start]Actualmente estoy basado en la hermosa **Gran Canaria**, teletrabajando como **SAP ABAP & BTP Developer**[cite: 12, 13]. Mi foco profesional es construir soluciones cloud-native robustas dentro del ecosistema SAP, pero mi verdadera pasión tecnológica se centra en el desarrollo **Fullstack** y la **electrónica**.
 
-I am a tech enthusiast, In my spare time I love riding my motorcycle and playing with electronics.
+---
 
-- 🌱 I’m currently learning how to build my own custom guitar pedals
-- 👯 I’m looking to collaborate on any open source projects
-- 🤔 I’m looking for help with Job search in the Netherlands
-- 💬 Ask me about anything that call your attention here!
-- 📫 How to reach me: [LinkedIn](http://bit.ly/patricio-rt), [email me](mailto:patriosweb@gmail.com)
-- 😄 Pronouns: He/his
-- ⚡ Fun fact: Before moving to Sweden I hated the beach, then I met the snow and I missed the beach...
+## 🛠️ Mi Stack de Proyectos Personales
 
+Este espacio está dedicado a mis proyectos e ideas fuera del ecosistema SAP. Aquí me concentro en tecnologías de vanguardia para construir soluciones completas:
+
+| Categoría | Tecnologías Principales | Estado Actual |
+| :--- | :--- | :--- |
+| **Frontend** | [cite_start]**React.js**, Next.js [cite: 17, 57] | Profundizando en *performance* y TDD. |
+| **Backend** | [cite_start]**Node.js**, Express [cite: 17, 57] | Explorando Go y arquitectura *Serverless*. |
+| **Base de Datos** | [cite_start]MongoDB, GraphQL [cite: 58] | Usando Drizzle ORM en proyectos recientes. |
+
+### Proyecto Actual Destacado
+
+🌱 Estoy activamente desarrollando [**Nombre de tu proyecto actual más emocionante**]. Es una [Describe brevemente, e.g., aplicación de gestión de inventario, herramienta de visualización de datos] construida con [Tecnologías principales del proyecto, e.g., Next.js y tRPC].
+
+---
+
+## 💼 Background Profesional (SAP & BTP)
+
+Aunque este perfil se centra en proyectos personales, mi base profesional es sólida y se centra en el desarrollo de aplicaciones empresariales.
+
+* [cite_start]**Rol Principal:** SAP ABAP & BTP Developer (S/4HANA & ABAP Cloud)[cite: 12, 15].
+* [cite_start]**Certificaciones:** Certificado en **ABAP Cloud** y el **SAP Cloud Application Programming Model** (CAP)[cite: 16].
+* [cite_start]**Habilidades Clave:** Desarrollo de servicios web (SOAP, OData), SAP Fiori/SAPUI5 y optimización de rendimiento de *back-end*[cite: 6, 7, 50, 30, 28].
+
+---
+
+## 💬 Conéctate y Colabora
+
+* **Busco Colaborar:** En proyectos Open Source que usen mi stack personal (React/Node/Next.js) o que involucren electrónica.
+* **Pregúntame sobre:** Cómo aplicar prácticas de desarrollo moderno (testing, CI/CD) a proyectos SAP, o sobre la electrónica de pedales de guitarra 🎸.
+* **Pronombres:** He/His.
+* [cite_start]**¡Dato Curioso!** Mi experiencia como Fullstack Developer (React/Node) me da una visión más amplia que aplico en mis proyectos personales e iniciativas de innovación[cite: 17].
+
+### 📬 ¿Cómo contactarme?
+
+* [cite_start]**LinkedIn:** Patricio Ríos Tapia [cite: 4]
+* [cite_start]**Email:** riostapia.patricio@gmail.com [cite: 2, 3]
+* **GitHub:** Puedes ver mis repositorios aquí mismo 😉
 
 <strong>Tech stack: </strong>
 <br>
